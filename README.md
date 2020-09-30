@@ -1,4 +1,4 @@
-# interactive-machine-learning-list
+# Interactive-machine-learning-list
 
 A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites.
 Started by [Piotr Migdał](https://p.migdal.pl/), but anyone is encouraged to contribute!
@@ -55,3 +55,5 @@ Main layout and styling developed by [Jakub Fogel](https://github.com/fogelkuba)
 * Some sorting (alphabetical?)
 * Share button
 * Code refactoring :)
+
+## Thank You
